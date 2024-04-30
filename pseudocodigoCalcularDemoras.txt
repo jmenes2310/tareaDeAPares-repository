@@ -1,0 +1,26 @@
+class ViajeMutiple{
+
+int calcularDeDemoras(){
+	
+	int distancia = 0;
+	float tiempo = 0;
+
+	for (i=0, destinos.size() < i, i++){
+		distancia = this.calcularDistancia(origen, destinos[0]);
+		tiempo += distancias * transeunte.getVelocidadPromedio()
+	} 
+
+	return tiempo;
+
+}
+}
+
+class NMinutosEnCadaParada{
+
+	@Override	
+	int calcularDemora(){
+	
+	return super() + minutosDemora * destinos.size(); 	
+	}
+
+}
